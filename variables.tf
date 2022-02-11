@@ -36,3 +36,4 @@ variable "tag_values" {
     "Application_Name" = "Terraform_Demo"
   }
 }
+#Variables

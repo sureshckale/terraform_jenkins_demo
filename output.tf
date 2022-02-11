@@ -9,3 +9,4 @@ output "Private_IP-EC2" {
 output "Public_IP-EC2" {
   value = aws_instance.Linux_Terraform_Demo.public_ip
 }
+#o/p

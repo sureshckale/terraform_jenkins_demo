@@ -1,5 +1,5 @@
 
-
+#main
 resource "aws_instance" "Linux_Terraform_Demo" {
   ami           = var.ami_id
   instance_type = var.instance_type
